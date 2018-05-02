@@ -307,14 +307,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
             "isDirectory": false,
-            "size": 113,
-            "modifiedTime": 1525082150189,
-            "changeTime": 1525082150189,
-            "contentHash": "d37585a5497942f4652a198588747f2d6be784e7",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 113,
+            "modifiedTime": 1525256494499,
+            "changeTime": 1525256494499,
+            "contentHash": "18ce1f8ffc8c430178b387f74cf876dc3dc93bc5"
         }
     ],
     [
@@ -921,7 +921,7 @@
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1525083593616,
+            "modifiedTime": 1525253593734,
             "changeTime": 1525083593616,
             "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
             "isMetadataFile": false,
@@ -944,14 +944,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 330,
             "modifiedTime": 1525084137605,
             "changeTime": 1525084137605,
-            "contentHash": "9c0b549aa28ba0a5368296b95374b3c5e9e190c3"
+            "contentHash": "9c0b549aa28ba0a5368296b95374b3c5e9e190c3",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -970,14 +970,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
             "isDirectory": false,
-            "size": 42,
-            "modifiedTime": 1525083629555,
-            "changeTime": 1525083629555,
-            "contentHash": "b5c7a9773c9f99067d3777ecad9e5dd88e3b717c",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 44,
+            "modifiedTime": 1525253628853,
+            "changeTime": 1525253628853,
+            "contentHash": "1d4d7f9fe811ae3312a354e13371c92421a9c73a"
         }
     ],
     [
