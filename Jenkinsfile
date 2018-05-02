@@ -2,7 +2,7 @@
 import groovy.json.JsonSlurperClassic
 node {
 
-    def BUILD_NUMBER=env.BUILD_NUMBER
+    def BUILD_NUMBER=env.BUILD_NUMBER 
     def RUN_ARTIFACT_DIR="tests/${BUILD_NUMBER}"
     def SFDC_USERNAME
 
@@ -14,7 +14,7 @@ node {
     def toolbelt = tool 'toolbeltCLI'
 
     stage('checkout source') {
-        // when running in multi-branch job, one must issue this command 
+        // when running in multi-branch job, one must issue this command dfdsf
         checkout scm
     }
 
