@@ -14,7 +14,7 @@ node {
     def toolbelt = tool 'toolbeltCLI'
 
     stage('checkout source') {
-        // when running in multi-branch job, one must issue this command
+        // when running in multi-branch job, one must issue this command 
         checkout scm
     }
 
