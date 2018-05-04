@@ -8,7 +8,7 @@
         component.set("v.map", map);
     },
     accountsLoaded: function(component, event, helper) {
-        // Add markers here
+        // Add markers here!
         var map = component.get('v.map');
         var accounts = event.getParam('accounts');
         for (var i=0; i<accounts.length; i++) {
