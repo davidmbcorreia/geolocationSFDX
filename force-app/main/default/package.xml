@@ -4,7 +4,7 @@
 
     <types>
         <members>*</members>
-        <name>CustomObject</name>
+        <name>ListView</name>
     </types>
 
 
