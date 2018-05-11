@@ -17,5 +17,10 @@
 		<members>*</members>
         <name>ApexTrigger</name>
     </types>
+	<types>
+     <members>Geolocation.permissionset-meta</members>
+     <name>PermissionSet</name>
+    </types>     
+    <types>
     <version>41.0</version>
 </Package>
