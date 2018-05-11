@@ -3,7 +3,7 @@
     <fullName>MyPkg</fullName>
 
     <types>
-        <members>CxT__c</members>
+        <members>*</members>
         <name>CustomObject</name>
     </types>
 
