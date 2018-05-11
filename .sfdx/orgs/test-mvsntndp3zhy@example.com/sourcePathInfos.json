@@ -2,14 +2,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1525080180711,
+            "modifiedTime": 1526034614375,
             "changeTime": 1525080180711,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1525080180711,
             "changeTime": 1525080180711,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,14 +32,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1525083579231,
             "changeTime": 1525083579231,
             "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -47,14 +47,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1525083857578,
             "changeTime": 1525083857578,
             "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -62,14 +62,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1525082669127,
             "changeTime": 1525082669127,
             "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -77,14 +77,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1525082669126,
             "changeTime": 1525082669126,
             "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -92,14 +92,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 542,
             "modifiedTime": 1525083982335,
             "changeTime": 1525083982335,
             "contentHash": "0eb081015e8f0397710d76f5fa901ec23d0495e7",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -107,14 +107,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 243,
             "modifiedTime": 1525082669107,
             "changeTime": 1525082669107,
             "contentHash": "097217b3ba1af8c1528aade539f9c16360a85db1",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -122,14 +122,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 111,
             "modifiedTime": 1525082738046,
             "changeTime": 1525082738046,
             "contentHash": "ff97680a451dccf775d504143f673481b13a3300",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -137,14 +137,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1525082669128,
             "changeTime": 1525082669128,
             "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -152,14 +152,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1525082669124,
             "changeTime": 1525082669124,
             "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -167,14 +167,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 395,
             "modifiedTime": 1525084024722,
             "changeTime": 1525084024722,
             "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -182,14 +182,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1525082669118,
             "changeTime": 1525082669118,
             "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -197,14 +197,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1525082669123,
             "changeTime": 1525082669123,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -212,14 +212,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1525082526113,
             "changeTime": 1525082557437,
             "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -227,14 +227,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.auradoc",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1525082526112,
             "changeTime": 1525082526112,
             "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -242,14 +242,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 120,
             "modifiedTime": 1525082549137,
             "changeTime": 1525082549137,
             "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -257,14 +257,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 247,
             "modifiedTime": 1525082526093,
             "changeTime": 1525082526093,
             "contentHash": "61b99c0717861f0069c29bfab5593f8b10d81b8f",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -272,14 +272,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 178,
             "modifiedTime": 1525082570079,
             "changeTime": 1525082570079,
             "contentHash": "0a91b7c1bd37605f99c1e24618c24b2b0e22caa2",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -287,14 +287,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.design",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1525082526114,
             "changeTime": 1525082526114,
             "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -302,14 +302,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.svg",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1525082526111,
             "changeTime": 1525082526111,
             "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -317,14 +317,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1525082526103,
             "changeTime": 1525082526103,
             "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -332,14 +332,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1525082526105,
             "changeTime": 1525082526105,
             "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -347,14 +347,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1525082526109,
             "changeTime": 1525082526109,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -362,14 +362,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1525270616427,
             "changeTime": 1525270616427,
             "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -377,14 +377,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1525082079442,
             "changeTime": 1525082079442,
             "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -392,14 +392,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 203,
             "modifiedTime": 1525083649091,
             "changeTime": 1525083649091,
             "contentHash": "7bdcc8d8705a0cf7559fde8b087a04444fc45e15",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -407,14 +407,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 246,
             "modifiedTime": 1525082079432,
             "changeTime": 1525082079432,
             "contentHash": "dfe99a871ed485dfde85a92f9ef175c42e82cbc9",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -422,14 +422,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 121,
             "modifiedTime": 1525270616428,
             "changeTime": 1525270616428,
             "contentHash": "3fad4a502501e32e1053ffcd16c86b25a76b658b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -437,14 +437,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1525082079444,
             "changeTime": 1525082079444,
             "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -452,14 +452,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1525082079440,
             "changeTime": 1525082079440,
             "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -467,14 +467,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1525082079434,
             "changeTime": 1525082079434,
             "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -482,14 +482,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1525082079435,
             "changeTime": 1525082079435,
             "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -497,14 +497,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1525082079439,
             "changeTime": 1525082079439,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -512,14 +512,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1525270616428,
+            "modifiedTime": 1526035712543,
             "changeTime": 1525270616428,
             "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -527,14 +527,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1525083593615,
             "changeTime": 1525083593615,
             "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -542,14 +542,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 330,
             "modifiedTime": 1525084137605,
             "changeTime": 1525084137605,
             "contentHash": "9c0b549aa28ba0a5368296b95374b3c5e9e190c3",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -557,14 +557,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1525083593604,
             "changeTime": 1525083593604,
             "contentHash": "b077571a2f804c85e2f389b95989fc6cf62a87af",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -572,14 +572,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
-            "modifiedTime": 1525441524587,
+            "modifiedTime": 1526035712539,
             "changeTime": 1525441524587,
             "contentHash": "3fa5ccd072fda1594bbabd0012c53a119d594ed0",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -587,14 +587,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1525083593617,
             "changeTime": 1525083593617,
             "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -602,14 +602,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1525083593613,
             "changeTime": 1525083593613,
             "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -617,14 +617,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 836,
             "modifiedTime": 1525445857128,
             "changeTime": 1525445857128,
             "contentHash": "0b76a0c83a774158b80d518b2d35501bbe3920d1",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -632,14 +632,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1525083593607,
             "changeTime": 1525083593607,
             "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -647,14 +647,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1525083593611,
             "changeTime": 1525083593611,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -662,14 +662,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1525083857580,
             "changeTime": 1525083857580,
             "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -677,14 +677,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 100,
             "modifiedTime": 1525083904165,
             "changeTime": 1525083904165,
             "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -692,14 +692,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1525083857583,
             "changeTime": 1525083857583,
             "contentHash": "2761731f694cba49bd18f1129cb53c1074bf487c",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -707,14 +707,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\classes",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1525081877361,
             "changeTime": 1525081877361,
             "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -722,14 +722,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 292,
-            "modifiedTime": 1525081970094,
+            "modifiedTime": 1526033123992,
             "changeTime": 1525081970094,
             "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -737,14 +737,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1525081877365,
             "changeTime": 1525081877365,
             "contentHash": "009dea813ac2a75cc97e39cbe424285f551f3488",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -757,24 +757,22 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1525081296117,
-            "changeTime": 1525081296117,
-            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1526037501028,
+            "changeTime": 1526037501028,
+            "contentHash": "5fdb2639208d3193ece325c699809a7c656fc9d1"
         }
     ],
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9756,
             "modifiedTime": 1525081296112,
             "changeTime": 1525081296112,
             "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -782,14 +780,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9708,
             "modifiedTime": 1525081296090,
             "changeTime": 1525081296090,
             "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -797,14 +795,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9756,
             "modifiedTime": 1525081296103,
             "changeTime": 1525081296103,
             "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -812,14 +810,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9708,
             "modifiedTime": 1525081296122,
             "changeTime": 1525081296122,
             "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -832,11 +830,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1525081296071,
-            "changeTime": 1525081296071,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1526037501009,
+            "changeTime": 1526037501009,
+            "contentHash": "a871349ad96d385e037eac3dbc945ae74c8864f6"
         }
     ],
     [
@@ -847,24 +843,22 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1525081296072,
-            "changeTime": 1525081296072,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1526037501020,
+            "changeTime": 1526037501020,
+            "contentHash": "90af1088d8c7cad30c6182b4ec88927b7bcd5001"
         }
     ],
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1525081296073,
             "changeTime": 1525081296073,
             "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -872,14 +866,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 403,
             "modifiedTime": 1525081296076,
             "changeTime": 1525081296076,
             "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -887,14 +881,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\permissionsets",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1525081296125,
             "changeTime": 1525081296125,
             "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -902,14 +896,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 366,
             "modifiedTime": 1525081296126,
             "changeTime": 1525081296126,
             "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -922,11 +916,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1525082465968,
-            "changeTime": 1525082465968,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1526037501034,
+            "changeTime": 1526037501034,
+            "contentHash": "acfb29843d77b245722dcd57238bd257c00ebf6b"
         }
     ],
     [
@@ -936,25 +928,23 @@
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 17723,
-            "modifiedTime": 1525082465975,
-            "changeTime": 1525082465975,
-            "contentHash": "9e2696b634739877d44fde67c10aa42124d7746b",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 18184,
+            "modifiedTime": 1526037501082,
+            "changeTime": 1526037501082,
+            "contentHash": "57289858fb52eb6d9b803250d2af0adf0dbee70d"
         }
     ],
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4684,
             "modifiedTime": 1525082465956,
             "changeTime": 1525082465956,
             "contentHash": "52f1d0724ab23352d73de7d6da76e63ea96d449b",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -962,14 +952,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4680,
             "modifiedTime": 1525082465942,
             "changeTime": 1525082465942,
             "contentHash": "4e8ccfd286b282fe150de41bc35253eae5e0fca5",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -977,14 +967,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5020,
             "modifiedTime": 1525082465947,
             "changeTime": 1525082465947,
             "contentHash": "f0fb8b8ee91be2f95547e0086971edbd837ac714",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -992,14 +982,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1525083579405,
             "changeTime": 1525083579405,
             "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1007,14 +997,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1525083579496,
             "changeTime": 1525083579496,
             "contentHash": "ef86d3d12efa4e132890afd141d18f3050a16029",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1022,14 +1012,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1525083579414,
             "changeTime": 1525083579414,
             "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1037,14 +1027,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1259,
             "modifiedTime": 1525083579408,
             "changeTime": 1525083579408,
             "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1052,14 +1042,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 696,
             "modifiedTime": 1525083579410,
             "changeTime": 1525083579410,
             "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1067,14 +1057,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 2464,
             "modifiedTime": 1525083579411,
             "changeTime": 1525083579411,
             "contentHash": "cf3a536596b1f58e0ac805404183c8e6d6bdacb5",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1082,14 +1072,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1466,
             "modifiedTime": 1525083579413,
             "changeTime": 1525083579413,
             "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1097,14 +1087,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 618,
             "modifiedTime": 1525083579415,
             "changeTime": 1525083579415,
             "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1112,14 +1102,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 396928,
             "modifiedTime": 1525083579455,
             "changeTime": 1525083579455,
             "contentHash": "4240045cf30725cb9980498fcc2ebf27a2f3c260",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1127,14 +1117,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 755043,
             "modifiedTime": 1525083579461,
             "changeTime": 1525083579461,
             "contentHash": "ca31fc870259d8faaa12c2f431906f368ea92791",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1142,14 +1132,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 14198,
             "modifiedTime": 1525083579467,
             "changeTime": 1525083579467,
             "contentHash": "57d2f781ab8b7b41d1dd5f0a51cd1930050ca9dc",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1157,14 +1147,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 139643,
             "modifiedTime": 1525083579496,
             "changeTime": 1525083579496,
             "contentHash": "997eed0c9cf25113c35b4213569b2323ad7d861e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1172,14 +1162,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 190004,
             "modifiedTime": 1525083579501,
             "changeTime": 1525083579501,
             "contentHash": "d94996a1df21dc6283868fdf6c0f1e50358eafea",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1187,14 +1177,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 223,
             "modifiedTime": 1525083579234,
             "changeTime": 1525083579234,
             "contentHash": "fe95029d9d0695d7ebbb9f1ee9a2a5448a6e8fbb",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1202,14 +1192,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\tabs",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1525082465935,
             "changeTime": 1525082465935,
             "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1217,14 +1207,14 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 267,
             "modifiedTime": 1525082465936,
             "changeTime": 1525082465936,
             "contentHash": "e466c1539e8f352b1752bcac00942fad81683d3e",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1232,16 +1222,120 @@
     [
         "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1525277423196,
             "changeTime": 1525277423196,
             "contentHash": "e620581a26612f70c41e9984c7d86e84d613b965",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Test__c\\Test__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Test__c\\Test__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2067,
+            "modifiedTime": 1526037501012,
+            "changeTime": 1526037501012,
+            "contentHash": "c1e92ac45ef79978e17121a1f2595dbf5ce3d44c"
+        }
+    ],
+    [
+        "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Account\\listViews\\All_Accounts.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Account\\listViews\\All_Accounts.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 454,
+            "modifiedTime": 1526037501025,
+            "changeTime": 1526037501025,
+            "contentHash": "7bb69c80b824ac795143cc785d72c14d17639002"
+        }
+    ],
+    [
+        "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\layouts\\Test__c-Test Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\layouts\\Test__c-Test Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1947,
+            "modifiedTime": 1526037501030,
+            "changeTime": 1526037501030,
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff"
+        }
+    ],
+    [
+        "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4815,
+            "modifiedTime": 1526037501093,
+            "changeTime": 1526037501093,
+            "contentHash": "c6d6a41b9192d4757d3792395c36b4a7a1da1d0a"
+        }
+    ],
+    [
+        "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4811,
+            "modifiedTime": 1526037501093,
+            "changeTime": 1526037501093,
+            "contentHash": "05c55388c61518ebfa0c7f102f3c2b51b11d91e9"
+        }
+    ],
+    [
+        "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5151,
+            "modifiedTime": 1526037501093,
+            "changeTime": 1526037501093,
+            "contentHash": "114b9f87a2ac3a2096636ee0e504fa4122bb4654"
+        }
+    ],
+    [
+        "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Test__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Test__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1526037501011,
+            "changeTime": 1526037501011,
+            "contentHash": "cb7efc9a3f90cccb433ca50b62ba98f15eb03a1a"
+        }
+    ],
+    [
+        "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Account\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\David Correia\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Account\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1526037501020,
+            "changeTime": 1526037501020,
+            "contentHash": "be9f79d2d606416f1fbfd547d60270f4cb24558a"
         }
     ]
 ]
