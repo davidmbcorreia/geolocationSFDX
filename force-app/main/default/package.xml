@@ -21,6 +21,5 @@
      <members>*</members>
      <name>PermissionSet</name>
     </types>     
-    <types>
     <version>41.0</version>
 </Package>
