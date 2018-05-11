@@ -4,8 +4,8 @@
 
      <types>
         <members>Account.Location__c</members>
-        <members>Account.Location__c.Location__Latitude__s</members>
-        <members>Account.Location__c.Location__Longitude__s</members>
+        <members>Account.Location__Latitude__s</members>
+        <members>Account.Location__Longitude__s</members>
         <name>CustomField</name>
     </types>
     <types>
