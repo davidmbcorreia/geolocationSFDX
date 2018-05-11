@@ -2,7 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
 <fullName>deploytest</fullName>
     <types>
-        <members>All_Accounts</members>
+        <members>Account.All_Accounts</members>
         <name>ListView</name>
     </types>
 
