@@ -6,6 +6,11 @@
         <members>Account.Location__c</members>
         <name>CustomField</name>
     </types>
+    <types>
+        <members>*</members>
+        <name>ApexClass</name>
+    </types>
+
    <!-- <types>
         <members>*</members>
         <name>CustomObject</name>
@@ -30,10 +35,6 @@
     <types>
         <members>*</members>
         <name>ApexPage</name>
-    </types>
-	    <types>
-        <members>*</members>
-        <name>ApexClass</name>
     </types>
     <types>
 		<members>*</members>
